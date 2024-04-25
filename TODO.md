@@ -1,0 +1,33 @@
+# TODO
+- [x] Reservation col and cell for every worker
+- [x] Reservation buttons in task popup
+- [x] Popover should not disappear while cursor is on it
+- [x] Dialog to get Account SID, Token, Workspace, Workflow sids
+- [x] Create task dialog
+- [x] Get queues and workers on app load
+- [x] Create task backend
+- [x] Logic to update task state on getting event
+- [x] Subscribe to events
+- [x] Accept/reject reservation on button click
+- [x] Fetch agent status
+- [x] Fetch agent capacity
+- [x] Change agent card header background depending on status
+- [x] Complete button for accepted task
+- [x] Show task attributes in task popup
+- [x] Fix event ordering
+- [x] Change agent status toggle (https://material-ui.com/components/switches/)
+- [x] Documentation (how to setup project, workspace (task channel name, activities, etc), architecture, UI paste, contributions)
+- [x] Code clean up
+- [x] Loading indicator on fetching initial resources
+- [ ] Handle task deleted event
+- [ ] Improve initial setup script to be completely automated
+- [ ] Add task age
+- [ ] Add task ordinal
+- [ ] Error handling
+- [ ] Delete all tasks button and event listener
+- [x] Polish UI using high level MUI components (https://paste.twilio.design/)
+- [ ] Allow changing status from UI
+- [ ] Script to create agents, queues setup (Pulumi?)
+- [ ] Update to only poll when event received.
+- [ ] Simplify deployment...
+
